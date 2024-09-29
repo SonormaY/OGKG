@@ -1,1 +1,1 @@
-##Labs from course Computer Graphics
+# Labs from course Computer Graphics
